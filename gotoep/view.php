@@ -21,7 +21,7 @@ include('header.php');
 		<div id="vertical-nav">
 			<div class="container clearfix">
 
-				<nav>
+                        				<nav>
 					<ul>
 						<li><a href="home.php"><i class="icon-home2"></i>Home</a></li>
 
@@ -37,6 +37,9 @@ include('header.php');
 
 						<li <?php if(isset($_GET['instructorId'])) { ?> class="current" <?php } ?> ><a href="instructors.php"><i class="icon-guest"></i>Instructors</a></li>
 
+                        <li><a href="team.php"><i class="icon-users"></i>Team</a></li>
+
+                        
                         <li><a href="team.php"><i class="icon-users"></i>Team</a></li>
 
                         <li><a href="logout.php"><i class="icon-line-power"></i>Logout</a></li>    

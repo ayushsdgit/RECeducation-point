@@ -64,7 +64,7 @@ CREATE TABLE `blog` (
 --
 
 INSERT INTO `blog` (`id`, `postContent`, `postDate`, `admin`, `title`, `status`, `post`) VALUES
-(1, '', 'July 02, 2021', 1, 'Website Project in Hindi/Urdu |Using HTML,CSS,Bootstrap,JQuery Ajax,PHP and MySQL Part 1', 'video', 'byLpnGbt3eY');
+(1, '', 'january 02, 2024', 1, 'Website Project in Hindi/Urdu |Using HTML,CSS,Bootstrap,JQuery Ajax,PHP and MySQL Part 1', 'video', 'byLpnGbt3eY');
 
 -- --------------------------------------------------------
 

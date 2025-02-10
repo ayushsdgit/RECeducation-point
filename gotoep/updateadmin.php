@@ -7,7 +7,7 @@ include("../include/config.php");
 
         header('Location: index.php');
     } else{
-        /* %%%%%%%%%%%%% START CODE SUBMIT %%%%%%%%%%%% */
+       
 
         $adminId = $_GET['id'];
         $loginName = $_SESSION['userName'];

@@ -29,7 +29,7 @@
 								<div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>
 							</div>
 						</div>
-						<div class="swiper-slide dark" style="background-image: url('images/slider/Slide2.png'); background-position: center top;">
+						<div class="swiper-slide dark" style="background-image: url('images/Slide2.png'); background-position: center top;">
 							<div class="container clearfix">
 								<div class="slider-caption">
 									<h2 data-caption-animate="fadeInUp"></h2>

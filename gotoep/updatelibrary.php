@@ -1,5 +1,5 @@
 <?php
-// *************Update
+
 include("../include/config.php");
 
     if((!isset($_SESSION['userId']) && empty($_SESSION['userId'])) && (!isset($_SESSION['userName']) && empty($_SESSION['userName']))) {
@@ -12,7 +12,7 @@ include("../include/config.php");
         $bookId = $_GET["id"];
         $power = $_SESSION['adminType'];
 
-        /* %%%%%%%%%%%%% START CODE SUBMIT %%%%%%%%%%%% */
+       
 
         if( isset($_POST['submit']) ){
 
@@ -185,7 +185,7 @@ include("../include/config.php");
 
 } // end of submission 
 
-       /* %%%%%%%%%%%%% END CODE SUBMIT %%%%%%%%%%%% */
+  
 
 
 if(isset($_GET['id'])){

@@ -298,6 +298,8 @@ include("../include/config.php");
 
 						<li><a href="instructors.php"><i class="icon-guest"></i>Instructors</a></li>
 
+                        <li><a href="attendanceapp\login.php"><i class="icon-guest"></i>Attendance</a></li>
+                        
                         <li><a href="team.php"><i class="icon-users"></i>Team</a></li>
 
                         <li><a href="logout.php"><i class="icon-line-power"></i>Logout</a></li>    

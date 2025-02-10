@@ -68,7 +68,7 @@ include("../include/config.php");
                 } // end of if 
             }//submit button */
 
-	   /* %%%%%%%%%%%%% END CODE SUBMIT %%%%%%%%%%%% */
+	   
 	
     $alertMessage = " ";
 

@@ -14,7 +14,7 @@ include("../include/config.php");
         $postId = $_GET["id"];
         $power = $_SESSION['adminType'];
 
-        /* %%%%%%%%%%%%% START CODE SUBMIT %%%%%%%%%%%% */
+      
 
           if( isset($_POST['submit']) ){
 
